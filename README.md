@@ -1,0 +1,5 @@
+- 👋 salut, i'm @vistdev
+- 👀 i'm coding php and modern frontends
+- 🌱 i’m currently learning from life
+- 💞️ if u have some job offers, give me a try
+- 📫 wp@vist.de
